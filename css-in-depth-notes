@@ -1,0 +1,2 @@
+"This is important: Values declared using relative units are evaluated by the browser to an absolute value, called the computed value." - pg. 31
+
